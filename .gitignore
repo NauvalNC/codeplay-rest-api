@@ -1,0 +1,6 @@
+**/*.idea
+**/images
+**/test
+**/serviceAccountKey.json
+**/*.vscode
+**/node_modules
